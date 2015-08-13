@@ -1,0 +1,2 @@
+# dialectic.cn
+personal website
